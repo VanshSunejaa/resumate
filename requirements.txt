@@ -1,0 +1,4 @@
+streamlit
+PyPDF2
+plotly
+google-generative-ai
